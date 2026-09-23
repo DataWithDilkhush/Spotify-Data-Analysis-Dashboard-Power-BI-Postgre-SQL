@@ -2,7 +2,7 @@
 
 > An end-to-end data analytics project exploring Spotify song and artist performance using SQL, Power Query, and Power BI.
 
-![Dashboard Preview](https://github.com/DataWithDilkhush/Spotify-Data-Analysis-Dashboard-Power-BI-Postgre-SQL/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/DataWithDilkhush/Spotify-Data-Analysis-Dashboard-Power-BI-Postgre-SQL/blob/main/Dashboard%20Images/Dashboard.png)
 
 ---
 
